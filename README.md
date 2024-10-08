@@ -1,2 +1,2 @@
-# ROOTS
+# OMUT game
 
